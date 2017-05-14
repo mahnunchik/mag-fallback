@@ -1,5 +1,7 @@
 # mag-fallback [![Build Status](https://travis-ci.org/mahnunchik/mag-fallback.svg)](https://travis-ci.org/mahnunchik/mag-fallback)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mahnunchik/mag-fallback.svg)](https://greenkeeper.io/)
+
 [Mag](https://github.com/mahnunchik/mag) is the streaming logger for NodeJS
 
 `mag-fallback` is fallback logging stream.
